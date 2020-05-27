@@ -1,4 +1,5 @@
 # Welcome to Contributors
 ## go ahead
 ## and then dont forget to commit
-## please make sure you have latest changes before working
+## please make sure you have latest changes before working 
+### Send an email to the team
